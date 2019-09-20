@@ -17,7 +17,7 @@
     "node",
     "setup"
   ],
-  "author": "YourNameOrOrganization",
+  "author": "Jamie Hoeks <j@skeoh.com>",
   "license": "MIT",
   "dependencies": {
     "@actions/core": "^1.0.0"
